@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbtech&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbtech" /> </p>
 
-- 🔭 I’m currently working on **Souled Store Clone**
+- 🔭 I’m currently working on **Verda.ai**
 
 - 🌱 I’m currently learning **Node**
 
