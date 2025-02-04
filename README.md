@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node**
 
-- 👨‍💻 All of my projects are available at [in my repositories](in my repositories)
+- 👨‍💻 All of my projects are available at in my repositories
 
 - 💬 Ask me about **react redux next.js**
 
