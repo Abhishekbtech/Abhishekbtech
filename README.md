@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Verda.ai**
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at in my repositories
 
