@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at in my repositories
 
-- 💬 Ask me about **react redux next.js**
+- 💬 Ask me about **React Redux Next.js and Tailwind CSS**
 
 - 📫 How to reach me **abhi271199@gmail.com**
 
