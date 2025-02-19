@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Verda.ai**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and Backend **
 
 - 👨‍💻 All of my projects are available at in my repositories
 
