@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at in my repositories
+- 👨‍💻 All of my projects are available in my repositories
 
 - 💬 Ask me about **React Redux Next.js and Tailwind CSS**
 
