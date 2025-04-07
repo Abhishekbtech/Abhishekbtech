@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Irona.ai**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Node Js and testing**
 
 - 👨‍💻 All of my projects are available in my repositories
 
